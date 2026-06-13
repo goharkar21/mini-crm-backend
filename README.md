@@ -1,6 +1,6 @@
 # Mini CRM Backend
 
-Author: me
+Author: krutika goharkar
 
 A role-based Mini CRM backend built with **NestJS**, **PostgreSQL**, and **Prisma**.
 The system supports **Admin** and **Employee** roles with secure JWT authentication.
